@@ -1,0 +1,14 @@
+{
+  "name": "inst-reporter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
+  }
+}
